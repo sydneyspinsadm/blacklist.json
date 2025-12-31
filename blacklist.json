@@ -1,0 +1,11 @@
+{
+  "ips": [
+    { "ip": "222.222.222.222", "reason": "Leaked script" }
+  ],
+  "hwids": [
+    { "hwid": "abcd-1234-efgh", "reason": "Tried to decompile" }
+  ],
+  "userids": [
+    { "userid": 123456789, "reason": "Spam reported in DMs" }
+  ]
+}
