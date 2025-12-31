@@ -1,6 +1,6 @@
 {
   "ips": [
-    { "ip": "222.222.222", "reason": "Leaked script" }
+    { "ip": "74.108.11.161", "reason": "why tf would u execute a random loadstring?" }
   ],
   "hwids": [
     { "hwid": "abcd-1234-efgh", "reason": "Tried to decompile" }
